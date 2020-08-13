@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
 - Writer :writing_hand:
 - Photographer :camera:
 - Developer :computer:
@@ -23,6 +25,8 @@ Here are some ideas to get you started:
 :house: \[Currently\] Shanghai, China, People's Republic of
 
 :office: Cyber Security Engineer @ [TekID (Shanghai) Software Technology Co., Ltd.](https://www.tek-id.com)
+
+<br />
 
 I'm a self-made **Pythonista**, though I had never tried `coroutine` and `C extensions` :rofl: I have
 authored several Python modules, some of which are becoming popular from time being, and developed some
@@ -47,6 +51,6 @@ Highlights
 Find me on...
 -------------
 
-[![](src/linked.svg)](https://www.linkedin.com/in/jarryshaw)
-[![](src/instagram.svg)](https://instagram.com/jarryshaw)
-[![](src/email.svg)](mailto:jarryshaw@icloud.com)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/linkedin.svg" width="5%">](https://www.linkedin.com/in/jarryshaw)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/instagram.svg" width="5%">](https://instagram.com/jarryshaw)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/email.svg" width="5%">](mailto:jarryshaw@icloud.com)
