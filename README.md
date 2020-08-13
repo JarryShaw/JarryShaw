@@ -30,16 +30,18 @@ authored several Python modules, some of which are
 becoming popular from time being, and developed some 
 projects featuring various domains.
 
-Personal projects
------------------
+Highlights
+----------
 
+- [`DARC`](/JarryShaw/darc) - darcweb crawling swiss army knife
 - [`PyBPC`](/pybpc/pybpc) - Python Backport Compiler
   - [`f2format`](/pybpc/f2format) - Back-port compiler for Python 3.6 f-string literals
   - [`poseur`](/pybpc/poseur) - Back-port compiler for Python 3.8 positional-only parameters
   - [`walrus`](/pybpc/walrus) - Back-port compiler for Python 3.8 assignment expressions
 - [`PyPCAPKit`](/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analysis kit
-  - [`DictDumper`](/JarryShaw/DictDumper) - Python dictionary formatted dumper (dependency of [`PyPCAPKit`](/JarryShaw/PyPCAPKit))
+  - [`DictDumper`](/JarryShaw/DictDumper) - Python dictionary formatted dumper
 - [`MacDaily`](/JarryShaw/MacDaily) - Package day-care manager on macOS
+  - [`PTYng`](/JarryShaw/ptyng) - revised Python `pty` standard library
 - [`lorem`](/JarryShaw/lorem) - Pythonic lorem ipsum generator
-  - [`lorem.js`](/JarryShaw/lorem.js) - JavaScript lorem ipsum generator
-- [`ZLogging`](/JarryShaw/zlogging) - [Bro/Zeek](https://zeek.org/) logging framework for Python (derived from [`BroAPT`](/JarryShaw/BroAPT))
+- [`BroAPT`](/JarryShaw/BroAPT) - APT detection system based on [Bro/Zeek](https://zeek.org/) framework (graduation thesis of Bechelor's degree)
+  - [`ZLogging`](/JarryShaw/zlogging) - [Bro/Zeek](https://zeek.org/) logging framework for Python
