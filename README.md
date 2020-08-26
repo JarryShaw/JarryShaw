@@ -1,6 +1,6 @@
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true&hide=yara" />
 </p>
 
 ---
