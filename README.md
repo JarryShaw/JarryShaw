@@ -1,4 +1,17 @@
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true" />
+</p>
+
+---
+
 ### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 :rainbow_flag:
+
+<br />
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue)
 
 <!--
 **JarryShaw/JarryShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
