@@ -1,6 +1,6 @@
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true&hide=yara" />
+  <!-- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true&hide=yara" /> -->
 </p>
 
 ---
@@ -48,18 +48,18 @@ projects featuring various domains.
 Highlights
 ----------
 
-- [`darc`](/JarryShaw/darc) - darkweb crawling swiss army knife
-- [`PyBPC`](/pybpc/pybpc) - Python Backport Compiler
-  - [`f2format`](/pybpc/f2format) - Back-port compiler for Python 3.6 f-string literals
-  - [`poseur`](/pybpc/poseur) - Back-port compiler for Python 3.8 positional-only parameters
-  - [`walrus`](/pybpc/walrus) - Back-port compiler for Python 3.8 assignment expressions
-- [`PyPCAPKit`](/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analysis kit
-  - [`DictDumper`](/JarryShaw/DictDumper) - Python dictionary formatted dumper
-- [`MacDaily`](/JarryShaw/MacDaily) - Package day-care manager on macOS
-  - [`PTYng`](/JarryShaw/ptyng) - revised Python's `pty` standard library
-- [`lorem`](/JarryShaw/lorem) - Pythonic lorem ipsum generator
-- [`BroAPT`](/JarryShaw/BroAPT) - APT detection system based on [Bro/Zeek](https://zeek.org/) framework (graduation thesis of bachelor's degree)
-  - [`ZLogging`](/JarryShaw/zlogging) - [Bro/Zeek](https://zeek.org/) logging framework for Python
+- [`darc`](https://github.com/JarryShaw/darc) - darkweb crawling swiss army knife
+- [`PyBPC`](https://github.com/pybpc/pybpc) - Python Backport Compiler
+  - [`f2format`](https://github.com/pybpc/f2format) - Back-port compiler for Python 3.6 f-string literals
+  - [`poseur`](https://github.com/pybpc/poseur) - Back-port compiler for Python 3.8 positional-only parameters
+  - [`walrus`](https://github.com/pybpc/walrus) - Back-port compiler for Python 3.8 assignment expressions
+- [`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analysis kit
+  - [`DictDumper`](https://github.com/JarryShaw/DictDumper) - Python dictionary formatted dumper
+- [`MacDaily`](https://github.com/JarryShaw/MacDaily) - Package day-care manager on macOS
+  - [`PTYng`](https://github.com/JarryShaw/ptyng) - revised Python's `pty` standard library
+- [`lorem`](https://github.com/JarryShaw/lorem) - Pythonic lorem ipsum generator
+- [`BroAPT`](https://github.com/JarryShaw/BroAPT) - APT detection system based on [Bro/Zeek](https://zeek.org/) framework (graduation thesis of bachelor's degree)
+  - [`ZLogging`](https://github.com/JarryShaw/zlogging) - [Bro/Zeek](https://zeek.org/) logging framework for Python
 
 Find me on...
 -------------
