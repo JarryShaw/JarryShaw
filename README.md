@@ -61,6 +61,7 @@ Highlights
 - [`lorem`](https://github.com/JarryShaw/lorem) - Pythonic lorem ipsum generator
 - [`BroAPT`](https://github.com/JarryShaw/BroAPT) - APT detection system based on [Bro/Zeek](https://zeek.org/) framework (graduation thesis of bachelor's degree)
   - [`ZLogging`](https://github.com/JarryShaw/zlogging) - [Bro/Zeek](https://zeek.org/) logging framework for Python
+- [`Flask-DataTables`](https://github.com/JarryShaw/Flask-DataTables) - [DataTables](https://datatables.net) server-side processing integration for `Flask` and `peewee`
 
 Find me on...
 -------------
