@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 :house: \[Currently\] Shanghai, China, People's Republic of
 
-:office: \[Currently\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com)
+:office: Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com)
 
-:school: \[Incoming\] M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/) 
+:school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/) 
 
-:school: \[Graduated\] B.E. in Information Security @ [SJTU](https://infosec.sjtu.edu.cn/)
+:school: B.E. in Information Security @ [SJTU](https://infosec.sjtu.edu.cn/)
 
 <br />
 
