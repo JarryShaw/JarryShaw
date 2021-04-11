@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 
 :house: \[Currently\] Shanghai, China, People's Republic of
 
-:office: Cyber Security Engineer @ [TekID (Shanghai) Software Technology Co., Ltd.](https://www.tek-id.com)
+:office: \[Currently\] Cyber Security Engineer @ [TekID (Shanghai) Software Technology Co., Ltd.](https://www.tek-id.com)
+
+:school: \[Incoming\] MS in Infomration Security @ [Carnegie Mellon University](https://www.cmu.edu/ini/academics/msis/) 
+
+~:school: BE in Information Security @ [Shanghai Jiao Tong University](https://infosec.sjtu.edu.cn/)~
 
 <br />
 
