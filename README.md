@@ -31,24 +31,27 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
 - Writer :writing_hand:
 - Photographer :camera:
 - Developer :computer:
 - Traveller :cn::jp::united_arab_emirates::ru::finland::sweden::norway::denmark::de::vietnam::cambodia::fr::monaco::austria::hungary::czech_republic::us::thailand::myanmar:
+-->
 
 :house: \[Currently\] Shanghai, China, People's Republic of
 
 :office: Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com)
 
-<!-- :school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/) -->
+:school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/)
 
-<!-- :school: B.E. in Information Security @ [SJTU](https://infosec.sjtu.edu.cn/) -->
+:school: B.E. in Information Security @ [SJTU](https://infosec.sjtu.edu.cn/)
 
 <br />
 
-I'm a self-made **Pythonista**, though I had never tried `coroutine` and `C extensions` :rofl: I have
-authored several Python modules, some of which are becoming popular from time being, and developed some
-projects featuring various domains.
+I'm a self-made **Pythonista**, though I had never tried `coroutine` and ~`C extensions`~ (currently 
+working on revision of [`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) with `C extensions`) :rofl: 
+I have authored several Python modules, some of which are becoming popular from time being, and developed 
+some projects featuring various domains.
 
 Highlights
 ----------
