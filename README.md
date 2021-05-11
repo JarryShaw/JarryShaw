@@ -6,7 +6,7 @@
 
 ---
 
-### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 :rainbow_flag: a *newbie* programmer :)
+### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 [PhNO3] :rainbow_flag: a *newbie* programmer :)
 
 <br />
 
