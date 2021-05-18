@@ -1,21 +1,3 @@
-<p align="center">
-  <a href="https://wakatime.com/jarryshaw">
-    <img src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
----
-
-### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 \[PhNO<sub>3</sub>\] :rainbow_flag: a *newbie* programmer :)
-
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue) -->
-
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue) -->
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jarryshaw" /> -->
-</p>
-  
 <!--
 **JarryShaw/JarryShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,14 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://wakatime.com/jarryshaw">
+    <img src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    A <em>Newbie</em> Programmer xD
+  </strong>
+</p>
+
 <br />
 
-<!--
-- Writer :writing_hand:
-- Photographer :camera:
-- Developer :computer:
-- Traveller :cn::jp::united_arab_emirates::ru::finland::sweden::norway::denmark::de::vietnam::cambodia::fr::monaco::austria::hungary::czech_republic::us::thailand::myanmar:
--->
+<p align="center">
+  <strong>
+    Writer :writing_hand: • Photographer :camera: • Developer :computer:
+  </strong>
+</p>
+<p align="center">
+  <strong>
+    Traveller :cn::jp::united_arab_emirates::ru::finland::sweden::norway::denmark::de::vietnam::cambodia::fr::monaco::austria::hungary::czech_republic::us::thailand::myanmar:
+  </strong>
+</p>
+
+---
+
+### Hi there :wave: this is Jarry Shaw a.k.a. 硝基苯 \[PhNO<sub>3</sub>\] :rainbow_flag: 
+
+<br />
 
 :house: \[Currently\] Shanghai, China, People's Republic of
 
