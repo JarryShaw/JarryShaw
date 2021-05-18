@@ -1,19 +1,21 @@
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true" />
-  <!-- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarryshaw&theme=dark&show_icons=true&hide=yara" /> -->
-  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=jarryshaw" /> -->
+  <a href="https://wakatime.com/jarryshaw">
+    <img src="https://github-readme-stats.vercel.app/api?username=jarryshaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
 </p>
 
 ---
 
-### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 [PhNO3] :rainbow_flag: a *newbie* programmer :)
+### Hi there 👋 this is Jarry Shaw a.k.a. 硝基苯 \[PhNO<sub>3</sub>\] :rainbow_flag: a *newbie* programmer :)
 
-<br />
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue) -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue) -->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue)
-
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jarryshaw" /> -->
+</p>
+  
 <!--
 **JarryShaw/JarryShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
