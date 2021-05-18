@@ -54,8 +54,9 @@ Here are some ideas to get you started:
 
 <br />
 
-I'm a self-made **Pythonista**, though I had never tried `coroutine` and ~`C extensions`~ (currently 
-working on revision of [`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) with `C extensions`) :rofl: 
+I'm a self-made **Pythonista**, though I had never tried ~`coroutine`~ (currently working on a corporate
+project with `coroutine` support) and ~`C extensions`~ (also working on revision of 
+[`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) with `C extensions`) :rofl: 
 I have authored several Python modules, some of which are becoming popular from time being, and developed 
 some projects featuring various domains.
 
