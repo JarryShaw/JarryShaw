@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <strong>
-    Traveller :cn::jp::united_arab_emirates::ru::finland::sweden::norway::denmark::de::vietnam::cambodia::fr::monaco::austria::hungary::czech_republic::us::thailand::myanmar:
+    Traveller :cn::jp::united_arab_emirates::ru::finland::sweden::norway::denmark::de::vietnam::cambodia::fr::monaco::austria::hungary::czech_republic::us::thailand::myanmar::kr::canada:
   </strong>
 </p>
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br />
 
-:house: \[Currently\] Shanghai, China, People's Republic of
+:house: \[Currently\] Pittsburgh, Pennsylvania, United States of America
 
 :office: Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com)
 
