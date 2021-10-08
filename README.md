@@ -74,6 +74,7 @@ Highlights
   - [`f2format`](https://github.com/pybpc/f2format) - Back-port compiler for Python 3.6 f-string literals
   - [`poseur`](https://github.com/pybpc/poseur) - Back-port compiler for Python 3.8 positional-only parameters
   - [`walrus`](https://github.com/pybpc/walrus) - Back-port compiler for Python 3.8 assignment expressions
+  - [`relaxedecor`](https://github.com/pybpc/relaxedecor) - Back-port compiler for Python 3.9 relaxed decorator grammars
 - [`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analysis kit
   - [`DictDumper`](https://github.com/JarryShaw/DictDumper) - Python dictionary formatted dumper
 - [`MacDaily`](https://github.com/JarryShaw/MacDaily) - Package day-care manager on macOS
