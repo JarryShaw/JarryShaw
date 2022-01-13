@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/JarryShaw">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarryshaw&column=7&theme=onedark&no-bg=false" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jarryshaw&column=4&theme=onedark&no-bg=false" />
   </a>
 </p>
 
