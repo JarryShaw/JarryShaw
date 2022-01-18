@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <strong>
-    A <em>Newbie</em> Programmer xD
+    A <a href="https://github.com/JarryShaw/JarryShaw/blob/master/img/newbie.png"><em>Newbie</em></a> Programmer xD
   </strong>
 </p>
 
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 <br />
 
 I'm a self-made **Pythonista**, though I had never tried ~`coroutine`~ (currently working on a corporate
-project with `coroutine` support) and ~`C extensions`~ (also working on revision of 
-[`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) with `C extensions`) :rofl: 
-I have authored several Python modules, some of which are becoming popular from time being, and developed 
+project with `coroutine` support) and ~`C extensions`~ (also working on revision of
+[`PyPCAPKit`](https://github.com/JarryShaw/PyPCAPKit) with `C extensions`) :rofl:
+I have authored several Python modules, some of which are becoming popular from time being, and developed
 some projects featuring various domains.
 
 Highlights
