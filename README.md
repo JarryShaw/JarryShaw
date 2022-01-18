@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <strong>
-    A <a href="https://github.com/JarryShaw/JarryShaw/blob/master/img/newbie.png"><em>Newbie</em></a> Programmer xD
+    A <a href="https://github.com/JarryShaw/JarryShaw/blob/master/img/newbie.png?raw=true"><em>Newbie</em></a> Programmer xD
   </strong>
 </p>
 
