@@ -89,6 +89,6 @@ Highlights
 Find me on...
 -------------
 
-[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/linkedin.svg" width="5%">](https://www.linkedin.com/in/jarryshaw)
-[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/instagram.svg" width="5%">](https://instagram.com/jarryshaw)
-[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/email.svg" width="5%">](mailto:jarryshaw@icloud.com)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/linkedin.svg?raw=true" width="5%">](https://www.linkedin.com/in/jarryshaw)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/instagram.svg?raw=true" width="5%">](https://instagram.com/jarryshaw)
+[<img src="https://github.com/JarryShaw/JarryShaw/blob/master/img/email.svg?raw=true" width="5%">](mailto:jarryshaw@icloud.com)
