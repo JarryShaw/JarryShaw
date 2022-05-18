@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 
 :house: \[Currently\] Pittsburgh, Pennsylvania, United States of America
 
-:office: *Incoming* Security Engineer Intern @ [Pinterest](https://www.pinterest.com/)
-
 :office: Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
 :school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/)
