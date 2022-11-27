@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 <br />
 
-:house: \[Currently\] Seattle, Washtington, United States of America
+:house: \[Currently\] Pittsburgh, Pennsylvania, United States of America
 
-:office: Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
+:office: \[Formerly\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
 :school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/)
 
