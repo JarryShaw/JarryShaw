@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br />
 
-:house: \[Currently\] Pittsburgh, Pennsylvania, United States of America
+:house: \[Currently\] Le Monde
 
 :office: \[Formerly\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
