@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br />
 
-:house: \[Currently\] \[DEDUCTED\]
+:house: \[DEDUCTED\]
 
 :office: \[Currently\] Software Development Engineer II @ \[DEDUCTED\]
 
