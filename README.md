@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 <br />
 
-:house: \[Currently\] Le Monde
+:house: \[Currently\] \[DEDUCTED\]
+
+:office: \[Currently\] Software Development Engineer II @ \[DEDUCTED\]
 
 :office: \[Formerly\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
