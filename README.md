@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Hi there :wave: this is Jarry Shaw a.k.a. 硝基苯 \[PhNO<sub>3</sub>\] :rainbow_flag: <sub>(they/them/theirs)</sub>
+### Hi there :wave: this is Jarry Shaw a.k.a. 硝基苯 \[PhNO<sub>3</sub>\] :rainbow_flag: <sub>(they/he)</sub>
 
 <br />
 
