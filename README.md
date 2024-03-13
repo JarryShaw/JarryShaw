@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 :house: \[DEDUCTED\]
 
-:office: \[Currently\] Software Development Engineer II @ \[DEDUCTED\]
+:office: \[Currently\] Software Development Engineer II @ \[REDUCTED\]
 
 :office: \[Formerly\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
