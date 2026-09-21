@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 :office: \[Formerly\] Cyber Security Engineer @ [TEKID Ltd.](https://www.tek-id.com/)
 
-:school: M.S. in Infomration Security @ [CMU](https://www.cmu.edu/ini/academics/msis/)
+:school: M.S. in Information Security @ [CMU](https://www.cmu.edu/ini/academics/msis/)
 
 :school: B.E. in Information Security @ [SJTU](https://infosec.sjtu.edu.cn/)
 
